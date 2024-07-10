@@ -1,0 +1,318 @@
+CRITICAL - 2024-07-03 22:38:17 --> date_diff(): Argument #1 ($baseObject) must be of type DateTimeInterface, string given
+in APPPATH/Views/product/details/_product_details.php on line 28.
+ 1 APPPATH/Views/product/details/_product_details.php(28): date_diff()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/_product_details.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Views/product/details/product.php(27): view()
+ 6 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/product.php')
+ 7 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 9 APPPATH/Controllers/HomeController.php(359): view()
+10 APPPATH/Controllers/HomeController.php(134): App\Controllers\HomeController->product()
+11 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\HomeController->any()
+12 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+13 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+14 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-03 22:39:45 --> date_diff(): Argument #1 ($baseObject) must be of type DateTimeInterface, string given
+in APPPATH/Views/product/details/_product_details.php on line 28.
+ 1 APPPATH/Views/product/details/_product_details.php(28): date_diff()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/_product_details.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Views/product/details/product.php(27): view()
+ 6 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/product.php')
+ 7 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 9 APPPATH/Controllers/HomeController.php(359): view()
+10 APPPATH/Controllers/HomeController.php(134): App\Controllers\HomeController->product()
+11 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\HomeController->any()
+12 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+13 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+14 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-03 22:39:46 --> date_diff(): Argument #1 ($baseObject) must be of type DateTimeInterface, string given
+in APPPATH/Views/product/details/_product_details.php on line 28.
+ 1 APPPATH/Views/product/details/_product_details.php(28): date_diff()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/_product_details.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Views/product/details/product.php(27): view()
+ 6 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/product.php')
+ 7 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 9 APPPATH/Controllers/HomeController.php(359): view()
+10 APPPATH/Controllers/HomeController.php(134): App\Controllers\HomeController->product()
+11 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\HomeController->any()
+12 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+13 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+14 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-03 22:39:46 --> date_diff(): Argument #1 ($baseObject) must be of type DateTimeInterface, string given
+in APPPATH/Views/product/details/_product_details.php on line 28.
+ 1 APPPATH/Views/product/details/_product_details.php(28): date_diff()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/_product_details.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Views/product/details/product.php(27): view()
+ 6 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/product.php')
+ 7 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 9 APPPATH/Controllers/HomeController.php(359): view()
+10 APPPATH/Controllers/HomeController.php(134): App\Controllers\HomeController->product()
+11 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\HomeController->any()
+12 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+13 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+14 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-03 22:40:45 --> date_diff(): Argument #1 ($baseObject) must be of type DateTimeInterface, string given
+in APPPATH/Views/product/details/_product_details.php on line 28.
+ 1 APPPATH/Views/product/details/_product_details.php(28): date_diff()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/_product_details.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Views/product/details/product.php(27): view()
+ 6 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/product.php')
+ 7 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 9 APPPATH/Controllers/HomeController.php(359): view()
+10 APPPATH/Controllers/HomeController.php(134): App\Controllers\HomeController->product()
+11 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\HomeController->any()
+12 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+13 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+14 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-03 22:40:46 --> date_diff(): Argument #1 ($baseObject) must be of type DateTimeInterface, string given
+in APPPATH/Views/product/details/_product_details.php on line 28.
+ 1 APPPATH/Views/product/details/_product_details.php(28): date_diff()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/_product_details.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Views/product/details/product.php(27): view()
+ 6 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/product.php')
+ 7 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 9 APPPATH/Controllers/HomeController.php(359): view()
+10 APPPATH/Controllers/HomeController.php(134): App\Controllers\HomeController->product()
+11 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\HomeController->any()
+12 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+13 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+14 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-03 22:40:47 --> date_diff(): Argument #1 ($baseObject) must be of type DateTimeInterface, string given
+in APPPATH/Views/product/details/_product_details.php on line 28.
+ 1 APPPATH/Views/product/details/_product_details.php(28): date_diff()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/_product_details.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Views/product/details/product.php(27): view()
+ 6 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/product.php')
+ 7 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 9 APPPATH/Controllers/HomeController.php(359): view()
+10 APPPATH/Controllers/HomeController.php(134): App\Controllers\HomeController->product()
+11 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\HomeController->any()
+12 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+13 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+14 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-03 22:40:47 --> date_diff(): Argument #1 ($baseObject) must be of type DateTimeInterface, string given
+in APPPATH/Views/product/details/_product_details.php on line 28.
+ 1 APPPATH/Views/product/details/_product_details.php(28): date_diff()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/_product_details.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Views/product/details/product.php(27): view()
+ 6 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/product.php')
+ 7 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 9 APPPATH/Controllers/HomeController.php(359): view()
+10 APPPATH/Controllers/HomeController.php(134): App\Controllers\HomeController->product()
+11 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\HomeController->any()
+12 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+13 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+14 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-03 22:40:47 --> date_diff(): Argument #1 ($baseObject) must be of type DateTimeInterface, string given
+in APPPATH/Views/product/details/_product_details.php on line 28.
+ 1 APPPATH/Views/product/details/_product_details.php(28): date_diff()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/_product_details.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Views/product/details/product.php(27): view()
+ 6 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/product.php')
+ 7 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 9 APPPATH/Controllers/HomeController.php(359): view()
+10 APPPATH/Controllers/HomeController.php(134): App\Controllers\HomeController->product()
+11 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\HomeController->any()
+12 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+13 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+14 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-03 22:40:47 --> date_diff(): Argument #1 ($baseObject) must be of type DateTimeInterface, string given
+in APPPATH/Views/product/details/_product_details.php on line 28.
+ 1 APPPATH/Views/product/details/_product_details.php(28): date_diff()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/_product_details.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Views/product/details/product.php(27): view()
+ 6 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/product.php')
+ 7 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 9 APPPATH/Controllers/HomeController.php(359): view()
+10 APPPATH/Controllers/HomeController.php(134): App\Controllers\HomeController->product()
+11 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\HomeController->any()
+12 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+13 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+14 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-03 22:40:47 --> date_diff(): Argument #1 ($baseObject) must be of type DateTimeInterface, string given
+in APPPATH/Views/product/details/_product_details.php on line 28.
+ 1 APPPATH/Views/product/details/_product_details.php(28): date_diff()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/_product_details.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Views/product/details/product.php(27): view()
+ 6 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/product.php')
+ 7 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 9 APPPATH/Controllers/HomeController.php(359): view()
+10 APPPATH/Controllers/HomeController.php(134): App\Controllers\HomeController->product()
+11 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\HomeController->any()
+12 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+13 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+14 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-03 20:45:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-07-03 22:45:14 --> date_diff(): Argument #1 ($baseObject) must be of type DateTimeInterface, string given
+in APPPATH/Views/product/details/_product_details.php on line 28.
+ 1 APPPATH/Views/product/details/_product_details.php(28): date_diff()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/_product_details.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Views/product/details/product.php(27): view()
+ 6 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/product.php')
+ 7 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 9 APPPATH/Controllers/HomeController.php(359): view()
+10 APPPATH/Controllers/HomeController.php(134): App\Controllers\HomeController->product()
+11 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\HomeController->any()
+12 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+13 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+14 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-03 20:46:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-07-03 22:46:50 --> syntax error, unexpected token ":", expecting ")"
+in APPPATH/Views/product/details/_product_details.php on line 28.
+ 1 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 3 APPPATH/Views/product/details/product.php(27): view()
+ 4 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/product.php')
+ 5 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/HomeController.php(359): view()
+ 8 APPPATH/Controllers/HomeController.php(134): App\Controllers\HomeController->product()
+ 9 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\HomeController->any()
+10 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+11 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+12 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-03 20:47:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-07-03 22:47:10 --> syntax error, unexpected token ":"
+in APPPATH/Views/product/details/_product_details.php on line 28.
+ 1 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 3 APPPATH/Views/product/details/product.php(27): view()
+ 4 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/product.php')
+ 5 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/HomeController.php(359): view()
+ 8 APPPATH/Controllers/HomeController.php(134): App\Controllers\HomeController->product()
+ 9 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\HomeController->any()
+10 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+11 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+12 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-03 20:47:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-07-03 22:47:57 --> date_diff(): Argument #1 ($baseObject) must be of type DateTimeInterface, int given
+in APPPATH/Views/product/details/_product_details.php on line 28.
+ 1 APPPATH/Views/product/details/_product_details.php(28): date_diff()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/_product_details.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Views/product/details/product.php(27): view()
+ 6 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/product.php')
+ 7 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 9 APPPATH/Controllers/HomeController.php(359): view()
+10 APPPATH/Controllers/HomeController.php(134): App\Controllers\HomeController->product()
+11 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\HomeController->any()
+12 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+13 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+14 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-03 20:59:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-07-03 22:59:57 --> Cannot use object of type stdClass as array
+in APPPATH/Views/product/details/_product_details.php on line 28.
+ 1 SYSTEMPATH/View/View.php(226): include()
+ 2 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 4 APPPATH/Views/product/details/product.php(27): view()
+ 5 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/product.php')
+ 6 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 8 APPPATH/Controllers/HomeController.php(359): view()
+ 9 APPPATH/Controllers/HomeController.php(134): App\Controllers\HomeController->product()
+10 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\HomeController->any()
+11 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+12 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+13 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-03 21:00:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-03 21:00:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-03 21:00:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-03 23:00:32 --> CSRF token verified.
+INFO - 2024-07-03 21:00:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-07-03 23:00:33 --> Cannot use object of type stdClass as array
+in APPPATH/Views/product/details/_product_details.php on line 28.
+ 1 SYSTEMPATH/View/View.php(226): include()
+ 2 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 4 APPPATH/Views/product/details/product.php(27): view()
+ 5 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/product.php')
+ 6 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 8 APPPATH/Controllers/HomeController.php(359): view()
+ 9 APPPATH/Controllers/HomeController.php(134): App\Controllers\HomeController->product()
+10 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\HomeController->any()
+11 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+12 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+13 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-03 21:00:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-07-03 23:00:52 --> date_diff(): Argument #1 ($baseObject) must be of type DateTimeInterface, int given
+in APPPATH/Views/product/details/_product_details.php on line 28.
+ 1 APPPATH/Views/product/details/_product_details.php(28): date_diff()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/_product_details.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Views/product/details/product.php(27): view()
+ 6 SYSTEMPATH/View/View.php(226): include('/home/roqdpgws/domains/deelhout.bigass.mom/public_html/app/Views/product/details/product.php')
+ 7 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 9 APPPATH/Controllers/HomeController.php(359): view()
+10 APPPATH/Controllers/HomeController.php(134): App\Controllers\HomeController->product()
+11 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\HomeController->any()
+12 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+13 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+14 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-03 21:05:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-03 21:05:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-03 21:05:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-03 23:05:21 --> CSRF token verified.
+INFO - 2024-07-03 21:05:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-03 21:05:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-03 21:05:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-03 23:05:23 --> CSRF token verified.
+INFO - 2024-07-03 21:05:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-03 21:05:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-03 21:05:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-03 23:05:29 --> CSRF token verified.
+INFO - 2024-07-03 21:05:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-03 21:05:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-03 21:05:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-03 21:05:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-03 23:05:38 --> CSRF token verified.
+INFO - 2024-07-03 21:05:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-03 21:05:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-03 21:05:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-03 23:05:40 --> CSRF token verified.
+INFO - 2024-07-03 21:05:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-03 21:05:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-03 21:05:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-03 23:05:47 --> CSRF token verified.

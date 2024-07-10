@@ -1,0 +1,18 @@
+CRITICAL - 2024-06-28 21:53:44 --> syntax error, unexpected token "else", expecting end of file
+in APPPATH/Views/dashboard/product/add_product.php on line 94.
+ 1 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/DashboardController.php(112): view()
+ 4 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\DashboardController->addProduct()
+ 5 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-28 21:53:47 --> syntax error, unexpected token "else", expecting end of file
+in APPPATH/Views/dashboard/product/add_product.php on line 94.
+ 1 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/DashboardController.php(112): view()
+ 4 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\DashboardController->addProduct()
+ 5 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()

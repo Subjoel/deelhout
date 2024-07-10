@@ -1,0 +1,9 @@
+CRITICAL - 2024-06-29 21:52:53 --> syntax error, unexpected token "else", expecting end of file
+in APPPATH/Views/partials/_header.php on line 128.
+ 1 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/HomeController.php(57): view()
+ 4 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\HomeController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
